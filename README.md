@@ -1,5 +1,7 @@
 # ploeh blog
 
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/ploeh/ploeh.github.com)
+
 This repository contains the templates and data for my blog at [blog.ploeh.dk](https://blog.ploeh.dk). It is powered by [Jekyll-Bootstrap](http://jekyllbootstrap.com).
 
 ## Comments
